@@ -6,9 +6,12 @@ li{
 body{
 	background-color: rgb(204, 204, 204)
 }
-div,video,audio{
+.player_one{
+	background-color: rgb(255, 255, 255); padding:10px ; border-radius:10px; display:block;margin-left:auto;margin-right:auto;width:90% 
+}
+.player_two{
 	background-color: rgb(255, 255, 255); padding:10px ; border-radius:10px; display:block;margin-left:auto;margin-right:auto;width:90% 
 }
 a{
-		text-decoration-line: none
+		text-decoration-line: none;
 }
