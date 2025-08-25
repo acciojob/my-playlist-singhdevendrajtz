@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+h1,h2{text-align:center;}
+li{
+	type:none;
+}
+body{
+	background-color: rgb(204, 204, 204)
+}
+div,video,audio{
+	background-color: rgb(255, 255, 255); padding:10px ; border-radius:10px; display:block;margin-left:auto;margin-right:auto;width:90% 
+}
+a{
+		text-decoration-line: none
+}
+<
