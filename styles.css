@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 h1,h2{text-align:center;}
 li{
-	type:none;
+	list-style-type:none
 }
 body{
 	background-color: rgb(204, 204, 204)
